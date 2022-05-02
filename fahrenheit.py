@@ -23,7 +23,6 @@ def fahrenheit():
         print("\nDone.")
 
 
-
 def main():
     # this function just calls other functions
 
