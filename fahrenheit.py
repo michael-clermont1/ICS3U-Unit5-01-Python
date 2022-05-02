@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created by: Michael Clermont
-# Created on: Mar 2022
-# This program prints numbers in columns of 5
+# Created on: May 2022
+# This program calculates the fahrenheit from celsius
 
 
 def fahrenheit():
